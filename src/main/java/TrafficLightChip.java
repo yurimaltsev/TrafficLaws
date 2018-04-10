@@ -1,5 +1,3 @@
-package com.arsanimagames;
-
 /*
     Фишка светофора
 

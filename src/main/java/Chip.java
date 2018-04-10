@@ -1,4 +1,3 @@
-package com.arsanimagames;
 /*
     Фишка игрока
 

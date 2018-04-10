@@ -1,5 +1,3 @@
-package com.arsanimagames;
-
 import java.util.Random;
 
 public abstract class Randomizer {
